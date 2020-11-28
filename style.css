@@ -1,0 +1,42 @@
+.titulo{
+    color: #F0B429;
+    text-align: center;
+    font-family: Arial, "Helvetica", sans-serif
+}
+.color_rojo {
+    color: red;
+    font-family: Arial, "Helvetica", sans-serif;
+    }
+.color_menu{
+
+    background-color:#F0B429;
+    font-family: Franklin Gothic Medium, "Arial Narrow", Arial, sans-serif;
+    width: 1400;
+}  
+.color_naranja {
+    color: #f47920;
+}
+
+.color_encabezado { 
+    color: #005883;
+    font-family: Arial, "Helvetica", sans-serif
+}
+.color_negro{
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size:large;
+    width: 95  %;
+}
+
+.parrafo{
+    columns: #333333;
+    font-family: Franklin Gothic Medium, Arial Narrow, Arial, "sans-serif";
+    text-align: justify; width: 8   0%; 
+    
+}
+.presentacion{
+    color: black;
+    font-size: medium;
+    font-family: 'Lucida Sans', Lucida Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif; 
+    
+}
